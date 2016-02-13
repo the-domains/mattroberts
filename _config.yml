@@ -1,4 +1,4 @@
-name: mattroberts
+name: theGrid.mattroberts.com
 favicon: null
 layout_spectrum: 0.8280902695842087
 typography_spectrum: 0.5679363107774407
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.05467601749114692
+  brandStrength: 0.5
   lightness: 0.18422436132095754
   saturation: 0.25562271382659674
   rhythmicContrast: 0.9085449688136578
